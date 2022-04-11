@@ -1,0 +1,31 @@
+nav {
+    width: 65%;
+    text-align: center;
+    background-color: #000000a3;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 17px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+
+footer p {
+
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    text-align: center;
+    padding: 25px;
+    letter-spacing: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 19px;
+    font-weight: 200;
+}
+
+h3 {
+    text-align: center;
+    margin: 30px 0;
+}
